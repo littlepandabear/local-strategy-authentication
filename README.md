@@ -2,13 +2,13 @@
 
 NodeJS example using Mongoose and Passport
 
-###Setup
+### Setup
 ```
 npm install
 node app.js
 ```
 
-###Dev
+### Dev
 ```
 npm run dev
 ```
